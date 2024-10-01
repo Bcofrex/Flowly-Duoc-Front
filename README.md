@@ -16,6 +16,8 @@ Proyecto de arquitectura Duoc Uc, aplicación financiera que permite gestionar s
 ### Descripción:
 Flowly es una aplicación que te permite gestionar todas tus suscripciones mensuales de servicios como Netflix, Disney+, Directv, y más. Nuestra aplicación te ayuda a evitar deudas, entender tus gastos mensuales y tomar mejores decisiones financieras.
 
+## Importante: 
+Usar rama **develop** para programar y realizar cambios, rama **main** será actualizada cuando se revise el codigo y no hayan problemas.
 ### Instalación
 1. Clona el repositorio
    ```bash
