@@ -25,6 +25,11 @@ Usar rama **develop** para programar y realizar cambios, rama **main** será act
 2. npm install
 3. npm start
 
+### Para correr el proyecto haz los siguientes pasos:
+- cd Flowly
+- npm run android
+- npm run web
+
 ### Tecnologías utilizadas:
 - React Native
 - Firebase
