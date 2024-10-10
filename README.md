@@ -26,9 +26,9 @@ Usar rama **develop** para programar y realizar cambios, rama **main** será act
 3. npm start
 
 ### Para correr el proyecto haz los siguientes pasos:
-- cd Flowly
-- npm run android
-- npm run web
+- npm start
+- Descargar App EXPO GO en tu celular
+- Escanear codigo QR que aparece en la consola al correr el proyecto
 
 ### Tecnologías utilizadas:
 - React Native
